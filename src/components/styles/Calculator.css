@@ -1,0 +1,31 @@
+.calculator {
+  width: 320px;
+  position: relative;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(71, 71, 107);
+  border-image: initial;
+  padding: 5px;
+  background-color: black;
+}
+
+.formulaScreen {
+  min-height: 20px;
+  font-family: digital;
+  font-size: 20px;
+  color: orange;
+  text-align: right;
+  vertical-align: text-top;
+  line-height: 20px;
+  overflow-wrap: break-word;
+
+}
+
+
+.outputScreen {
+  font-size: 29px;
+  font-family: digital;
+  color: white;
+  text-align: right;
+  line-height: 35px;
+}

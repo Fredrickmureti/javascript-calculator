@@ -1,0 +1,31 @@
+button {
+  position: relative;
+  height: 65px;
+  width: 80px;
+  color: white;
+  font-family: "Share Tech Mono", monospace;
+  font-size: 20px;
+  cursor: pointer;
+  outline: black solid 1px;
+  border-width: initial;
+  border-style: none;
+  border-color: initial;
+  border-image: initial;
+  background: rgb(77, 77, 77);
+}
+
+.jumbo {
+  width: 160px;
+  background: rgb(172, 57, 57);
+}
+
+#equals {
+  background-color: rgb(0, 68, 102);
+  position: absolute;
+  height: 130px;
+  bottom: 5px;
+}
+
+#divide, #multiply, #subtract, #add  {
+  background: rgb(102, 102, 102);
+}
